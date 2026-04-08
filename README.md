@@ -2,9 +2,8 @@
 
 ## 🖼️ Network Architecture Diagram
 
-![AI-Enhanced Hospital Network](https://www.dropbox.com/scl/fi/8v7qnh5owwcczxixiupwz/Updated-network-diagram.png?rlkey=yp20qzn1tm4ut86ah0671vw53&st=1q9vbu9i&dl=0)
-
-## 📌 Key Design Decisions
+![AI-Enhanced Hospital Network]
+## 📈 Key Design Decisions
 
 - **Centralized Database at Headquarters:** Ensures consistent patient data across all locations  
 - **AI-Driven Threat Sharing:** A threat detected at one clinic is instantly blocked across all sites  
