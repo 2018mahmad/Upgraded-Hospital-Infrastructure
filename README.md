@@ -50,8 +50,6 @@ This project introduces an AI-enhanced network architecture that:
 - Local servers at each clinic for redundancy  
 - Central database server for unified patient data  
 
-*(Insert your network diagram image here)*
-
 ---
 
 ## 🔐 Security Enhancements
@@ -119,12 +117,10 @@ This project introduces an AI-enhanced network architecture that:
 ## 🧠 Skills Demonstrated
 
 - Network Design & Architecture  
-- Cybersecurity & Threat Detection  
-- AI in IT Operations (AIOps)  
+- Cybersecurity & Threat Detection 
 - VPN Configuration Concepts  
 - Incident Response & Automation  
 - Performance Optimization  
-- Technical Documentation  
 
 ---
 
