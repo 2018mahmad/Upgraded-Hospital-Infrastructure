@@ -1,5 +1,15 @@
 # 🏥 AI-Enhanced Hospital Network Infrastructure – Security & Automation Design
 
+## 🖼️ Network Architecture Diagram
+
+![AI-Enhanced Hospital Network](https://www.dropbox.com/scl/fi/8v7qnh5owwcczxixiupwz/Updated-network-diagram.png?rlkey=yp20qzn1tm4ut86ah0671vw53&st=1q9vbu9i&dl=0)
+
+## 📌 Key Design Decisions
+
+- **Centralized Database at Headquarters:** Ensures consistent patient data across all locations  
+- **AI-Driven Threat Sharing:** A threat detected at one clinic is instantly blocked across all sites  
+- **Scalable Architecture:** New clinics can be added with minimal configuration using AI automation  
+
 ## 📌 Project Overview
 
 This project focuses on designing and enhancing a healthcare network infrastructure using AI-driven security and automation technologies. The goal was to improve security, performance, scalability, and incident response across multiple clinic locations connected through a centralized headquarters.
