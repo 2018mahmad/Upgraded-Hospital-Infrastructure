@@ -2,7 +2,8 @@
 
 ## 🖼️ Network Architecture Diagram
 
-![AI-Enhanced Hospital Network]
+<img width="550" height="250" alt="Updated network diagram" src="https://github.com/user-attachments/assets/f693b172-c648-431b-bc80-b74cbc5cbd97" />
+
 ## 📈 Key Design Decisions
 
 - **Centralized Database at Headquarters:** Ensures consistent patient data across all locations  
